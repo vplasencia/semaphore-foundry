@@ -1,4 +1,4 @@
-# Semaphore Foundry template
+# Semaphore-Foundry template
 
 This is a sample Semaphore project that can be used as a template.
 
