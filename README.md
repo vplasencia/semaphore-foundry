@@ -1,6 +1,6 @@
 # Semaphore Foundry template
 
-This is a simple Semaphore project that can be used as a template.
+This is a sample Semaphore project that can be used as a template.
 
 ## Clone the repository
 
