@@ -1,5 +1,8 @@
 # Semaphore-Foundry template
 
+> [!WARNING]  
+> **There is an issue with deploying Semaphore using Foundry**. More context here: https://github.com/semaphore-protocol/semaphore/issues/185#issuecomment-1485049285
+
 This is a sample Semaphore project that can be used as a template.
 
 ## Clone the repository
